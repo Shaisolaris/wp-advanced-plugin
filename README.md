@@ -46,3 +46,34 @@ git clone https://github.com/Shaisolaris/wp-advanced-plugin.git
 
 ## License
 MIT
+
+## Architecture
+
+```
+.editorconfig
+.github/workflows/ci.yml
+.gitignore
+DEMO.md
+Makefile
+README.md
+admin/class-settings.php
+blocks/featured-content/block.json
+blocks/featured-content/index.js
+demo-data.php
+includes/class-meta-boxes.php
+includes/class-post-types.php
+includes/class-taxonomies.php
+rest-api/class-rest-controller.php
+wp-advanced-plugin.php
+```
+
+## Contributing
+
+1. Fork the repository
+2. Create a feature branch
+3. Commit your changes
+4. Open a Pull Request
+
+## License
+
+MIT
