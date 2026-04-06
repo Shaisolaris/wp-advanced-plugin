@@ -1,5 +1,21 @@
 # wp-advanced-plugin
 
+## Quick Start
+
+1. Copy to `wp-content/plugins/wp-advanced-plugin/`
+2. Activate in WordPress admin
+3. Demo content auto-created: 3 portfolio items, 2 testimonials, 1 service
+4. Visit Settings → Advanced Plugin to configure
+
+### Demo Content
+
+On activation, the plugin creates sample content so you can immediately see:
+- Portfolio grid on any page with `[portfolio]` shortcode
+- Testimonials carousel with `[testimonials]` shortcode
+- Services list with `[services]` shortcode
+- REST API endpoints at `/wp-json/advanced-plugin/v1/`
+
+
 ![CI](https://github.com/Shaisolaris/wp-advanced-plugin/actions/workflows/ci.yml/badge.svg)
 
 WordPress plugin with 3 custom post types (Portfolio, Testimonials, Services), custom taxonomies (Project Types, Skills, Service Categories), meta boxes with custom fields, REST API endpoints with pagination and filtering, admin settings page, and a Gutenberg block for featured content display.
