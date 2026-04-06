@@ -1,5 +1,7 @@
 # wp-advanced-plugin
 
+![CI](https://github.com/Shaisolaris/wp-advanced-plugin/actions/workflows/ci.yml/badge.svg)
+
 WordPress plugin with 3 custom post types (Portfolio, Testimonials, Services), custom taxonomies (Project Types, Skills, Service Categories), meta boxes with custom fields, REST API endpoints with pagination and filtering, admin settings page, and a Gutenberg block for featured content display.
 
 ## Custom Post Types
