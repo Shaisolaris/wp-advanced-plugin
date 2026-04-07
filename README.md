@@ -1,5 +1,8 @@
 # wp-advanced-plugin
 
+
+WordPress plugin with custom post types (portfolio, testimonials, services), Gutenberg blocks, REST API endpoints, and admin settings page.
+
 ## Quick Start
 
 1. Copy to `wp-content/plugins/wp-advanced-plugin/`
